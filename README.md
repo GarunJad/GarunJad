@@ -27,19 +27,13 @@
 <!-- ABOUT ME                            -->
 <!-- ═══════════════════════════════════ -->
 
-## ⚡ About Me
+##  About Me
 
 ```yaml
 Name: Garun Jadaun
 Location: Noida, India 🇮🇳
 Education: B.Tech @ JIIT Noida (2022 - Present)
 Focus: AI Systems | Backend Engineering | Full-Stack Development
-
-Currently:
-  🔭 Building: AI-powered data pipelines & telephony integrations
-  🌱 Learning: System Design, Cloud Architecture, LangGraph
-  🧩 Solving:  300+ DSA problems on LeetCode
-  💼 Interned: Backend Developer @ McGeeks Mechatronics
 
 Motto: "Ship fast. Break nothing. Learn everything."
 ```
@@ -50,26 +44,26 @@ Motto: "Ship fast. Break nothing. Learn everything."
 <!-- TECH STACK                          -->
 <!-- ═══════════════════════════════════ -->
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-#### ⌨️ Languages
+####  Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
 </p>
 
-#### ⚙️ Frameworks & Runtime
+####  Frameworks & Runtime
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark" />
 </p>
 
-#### 🗄️ Databases & Tools
+####  Databases & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,prisma,git&theme=dark" />
 </p>
 
-#### 🧰 Dev Environment
+####  Dev Environment
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,github,linux,docker&theme=dark" />
 </p>
@@ -82,7 +76,7 @@ Motto: "Ship fast. Break nothing. Learn everything."
 <!-- GITHUB STATS                        -->
 <!-- ═══════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 <picture>
@@ -98,11 +92,11 @@ Motto: "Ship fast. Break nothing. Learn everything."
 <!-- ACHIEVEMENTS                        -->
 <!-- ═══════════════════════════════════ -->
 
-## 🏅 Highlights
+##  Highlights
 
 <div align="center">
 
-|  🧩 **300+** LeetCode Problems  |  📦 **16+** GitHub Repos  |  🎓 B.Tech @ **JIIT Noida**  |  💼 Backend Intern  |
+|   **300+** LeetCode Problems  |   **16+** GitHub Repos  |   B.Tech @ **JIIT Noida**  |   Backend Intern  |
 |:---:|:---:|:---:|:---:|
 |  DSA & Algorithms  |  Open Source Projects  |  Information Technology  |  McGeeks Mechatronics  |
 
@@ -114,7 +108,7 @@ Motto: "Ship fast. Break nothing. Learn everything."
 <!-- CONTRIBUTION GRAPH                  -->
 <!-- ═══════════════════════════════════ -->
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 <picture>
@@ -132,7 +126,7 @@ Motto: "Ship fast. Break nothing. Learn everything."
 
 <div align="center">
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <a href="https://www.linkedin.com/in/garun-jadaun-39a113315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/GarunJad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
@@ -142,7 +136,7 @@ Motto: "Ship fast. Break nothing. Learn everything."
 
 <br/><br/>
 
-### 💬 *"Ship fast. Break nothing. Learn everything."*
+###  *"Ship fast. Break nothing. Learn everything."*
 
 <br/>
 
