@@ -1,229 +1,196 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Garun%20Jadaun&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%20%E2%80%A2%20%20Backend%20Engineer%20%20%E2%80%A2%20%20Problem%20Solver&descAlignY=65&descSize=16&animation=fadeIn&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Garun%20Jadaun&fontSize=80&fontAlignY=40&desc=Full-Stack%20Developer%20%20•%20%20Backend%20Engineer%20%20•%20%20Problem%20Solver&descAlignY=65&descSize=16&animation=fadeIn&fontColor=ffffff" />
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+Building+intelligent+systems+that+matter;%F0%9F%9A%80+From+AI+pipelines+to+real-time+apps;%F0%9F%92%A1+Turning+ideas+into+production-ready+code)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-garunjad.github.io-00d4ff?style=for-the-badge&labelColor=0d1117)](https://garunjad.github.io/portfolio/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/garun-jadaun-39a113315/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/drax_0507/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email_Me-garujadaun-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:garujadaun@gmail.com)
+<a href="https://garunjad.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-garunjad.github.io-00d4ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/garun-jadaun-39a113315/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://leetcode.com/u/drax_0507/">
+<img src="https://img.shields.io/badge/LeetCode-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:garujadaun@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-garujadaun-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ABOUT ME                                        -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!-- ABOUT ME                            -->
+<!-- ═══════════════════════════════════ -->
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-## ⚡ Quick Facts
+## ⚡ About Me
 
 ```yaml
 Name: Garun Jadaun
 Location: Noida, India 🇮🇳
 Education: B.Tech @ JIIT Noida (2022 - Present)
-Focus: AI Systems | Backend | Full-Stack
+Focus: AI Systems | Backend Engineering | Full-Stack Development
 
-Current:
-  - 🔭 Building: AI-powered data pipelines
-  - 🌱 Learning: System Design & Cloud Architecture
-  - 🧩 Solving: 300+ DSA problems on LeetCode
+Currently:
+  🔭 Building: AI-powered data pipelines & telephony integrations
+  🌱 Learning: System Design, Cloud Architecture, LangGraph
+  🧩 Solving:  300+ DSA problems on LeetCode
+  💼 Interned: Backend Developer @ McGeeks Mechatronics
 
 Motto: "Ship fast. Break nothing. Learn everything."
 ```
 
-<br clear="right"/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- TECH STACK                                      -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!-- TECH STACK                          -->
+<!-- ═══════════════════════════════════ -->
 
 ## 🛠️ Tech Arsenal
 
-<table align="center">
+<div align="center">
+
+#### ⌨️ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
+</p>
+
+#### ⚙️ Frameworks & Runtime
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,prisma,git&theme=dark" />
+</p>
+
+#### 🧰 Dev Environment
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,linux,docker&theme=dark" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════ -->
+<!-- PROJECTS                            -->
+<!-- ═══════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br><b>C/C++</b>
+<td width="50%" valign="top">
+
+### 🧠 [Intelligent Data Pipeline Manager](https://github.com/GarunJad)
+AI-powered data pipeline enabling **natural-language to SQL** querying using schema-grounded LLMs. Features voice queries, auto-generated visualizations, and multi-turn conversations.
+
+`FastAPI` `PostgreSQL` `LangGraph` `LLMs` `Python` `Next.js`
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><b>React</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><b>Next.js</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
+<td width="50%" valign="top">
+
+### 📞 [AI-PBX Integration Gateway](https://github.com/GarunJad/AI-PBX-Integration-Gateway)
+Real-time telephony bridge using **FreePBX + Node.js** middleware. Features call tracking via AMI/ARI, voice recording, AI transcription, auto-reconnect, and REST API.
+
+`Node.js` `FreePBX` `AMI/ARI` `WebSocket` `REST API`
+
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><b>Express.js</b>
+<td width="50%" valign="top">
+
+### 💬 [Real-Time Chat Application](https://github.com/GarunJad/TwinkConnect-real-time-chat-app-)
+Full-stack chat app with **instant messaging** via Socket.io. JWT authentication, message persistence with MongoDB, and scalable Express.js APIs.
+
+`MongoDB` `Express.js` `React` `Node.js` `Socket.io` `JWT`
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br><b>FastAPI</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><b>MySQL</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br><b>Supabase</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-<br><b>Prisma</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><b>Tailwind</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><b>HTML5</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><b>CSS3</b>
+<td width="50%" valign="top">
+
+### 🏨 [Trip & Thrill — Travel Platform](https://github.com/GarunJad)
+Travel and hotel booking platform built during internship. Features **Google Auth**, hotel booking/cancellation, and responsive cross-device UI.
+
+`Supabase` `Google Auth` `Node.js` `JavaScript`
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- GITHUB STATS                                    -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!-- GITHUB STATS                        -->
+<!-- ═══════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00d4ff&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=GarunJad&theme=react&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GarunJad&theme=react&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=GarunJad&theme=default&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=GarunJad&theme=react&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff" alt="GitHub Streak" />
+</picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</picture>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- TROPHIES                                        -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!-- ACHIEVEMENTS                        -->
+<!-- ═══════════════════════════════════ -->
+
+## 🏅 Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GarunJad&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=6)](https://github.com/GarunJad)
+|  🧩 **300+** LeetCode Problems  |  📦 **16+** GitHub Repos  |  🎓 B.Tech @ **JIIT Noida**  |  💼 Backend Intern  |
+|:---:|:---:|:---:|:---:|
+|  DSA & Algorithms  |  Open Source Projects  |  Information Technology  |  McGeeks Mechatronics  |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS                               -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/GarunJad/AI-PBX-Integration-Gateway">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GarunJad&repo=AI-PBX-Integration-Gateway&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/GarunJad/portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GarunJad&repo=portfolio&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🧠 All Major Projects (click to expand)</b></summary>
-<br/>
-
-| &nbsp; | Project | What It Does | Stack |
-|:---:|---------|:------------|:------|
-| 🧠 | **Intelligent Data Pipeline Manager** | AI-powered NL-to-SQL pipeline with voice queries & auto-visualizations | `FastAPI` `PostgreSQL` `LangGraph` `LLMs` `Next.js` |
-| 📞 | **AI-PBX Integration Gateway** | Real-time telephony bridge with AI processing, call tracking & recording | `Node.js` `FreePBX` `AMI/ARI` `WebSocket` |
-| 💬 | **Real-Time Chat App** | Full-stack chat with instant messaging, auth & message persistence | `MongoDB` `Express` `React` `Node.js` `Socket.io` |
-| 🏨 | **Trip & Thrill** | Travel & hotel booking platform with Google Auth *(Internship)* | `Supabase` `Google Auth` `Node.js` |
-| 📝 | **Huffman Text Editor** | Text editor with Huffman encoding compression | `C++` |
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!-- CONTRIBUTION GRAPH                  -->
+<!-- ═══════════════════════════════════ -->
 
 ## 📈 Contribution Graph
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GarunJad&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7)](https://github.com/GarunJad)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GarunJad&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GarunJad&theme=minimal&hide_border=true&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GarunJad&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7" alt="Contribution Graph" />
+</picture>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- METRICS CARDS                                   -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<div align="center">
-
-| 🧩 **300+** LeetCode Problems | 📦 **16+** Repositories | 🎓 B.Tech @ **JIIT Noida** | 💼 Intern @ **McGeeks** |
-|:---:|:---:|:---:|:---:|
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- CONNECT                                         -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════ -->
+<!-- CONNECT                             -->
+<!-- ═══════════════════════════════════ -->
 
 <div align="center">
 
@@ -241,7 +208,7 @@ Motto: "Ship fast. Break nothing. Learn everything."
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GarunJad&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=GarunJad&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
