@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+Building+intelligent+systems+that+matter;%F0%9F%9A%80+From+AI+pipelines+to+real-time+apps;%F0%9F%92%A1+Turning+ideas+into+production-ready+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%9C%A8+Building+intelligent+systems+that+matter;%F0%9F%9A%80+From+AI+pipelines+to+real-time+apps;%F0%9F%92%A1+Turning+ideas+into+production-ready+code)](https://git.io/typing-svg)
 
 <br/>
 
@@ -79,53 +79,6 @@ Motto: "Ship fast. Break nothing. Learn everything."
 <br/>
 
 <!-- ═══════════════════════════════════ -->
-<!-- PROJECTS                            -->
-<!-- ═══════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Intelligent Data Pipeline Manager](https://github.com/GarunJad)
-AI-powered data pipeline enabling **natural-language to SQL** querying using schema-grounded LLMs. Features voice queries, auto-generated visualizations, and multi-turn conversations.
-
-`FastAPI` `PostgreSQL` `LangGraph` `LLMs` `Python` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 📞 [AI-PBX Integration Gateway](https://github.com/GarunJad/AI-PBX-Integration-Gateway)
-Real-time telephony bridge using **FreePBX + Node.js** middleware. Features call tracking via AMI/ARI, voice recording, AI transcription, auto-reconnect, and REST API.
-
-`Node.js` `FreePBX` `AMI/ARI` `WebSocket` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [Real-Time Chat Application](https://github.com/GarunJad/TwinkConnect-real-time-chat-app-)
-Full-stack chat app with **instant messaging** via Socket.io. JWT authentication, message persistence with MongoDB, and scalable Express.js APIs.
-
-`MongoDB` `Express.js` `React` `Node.js` `Socket.io` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 [Trip & Thrill — Travel Platform](https://github.com/GarunJad)
-Travel and hotel booking platform built during internship. Features **Google Auth**, hotel booking/cancellation, and responsive cross-device UI.
-
-`Supabase` `Google Auth` `Node.js` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════ -->
 <!-- GITHUB STATS                        -->
 <!-- ═══════════════════════════════════ -->
 
@@ -133,24 +86,9 @@ Travel and hotel booking platform built during internship. Features **Google Aut
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarunJad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9" alt="GitHub Stats" />
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GarunJad&theme=react&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=GarunJad&theme=default&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=GarunJad&theme=react&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff" alt="GitHub Streak" />
-</picture>
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarunJad&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=GarunJad&theme=react&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff" alt="GitHub Streak" />
 </picture>
 </div>
 
